@@ -19,7 +19,7 @@ void i2c_init(void)
 	// Program the peripheral input clock in I2C_CR2 Register in order to generate correct timings
 	I2C1->CR2 |= (50<<0);  // PCLK1 FREQUENCY in MHz
 	
-	// Configure the clock control registers
+	// Configure the clock control registers   //Please check reference manuel for calculation of these parameters
 	I2C1->CCR = 250<<0;
 	// Configure the rise time register
 	I2C1->TRISE = 51;
