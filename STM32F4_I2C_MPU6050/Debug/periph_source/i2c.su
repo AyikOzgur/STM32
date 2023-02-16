@@ -1,0 +1,9 @@
+i2c.c:4:6:i2c_init	4	static
+i2c.c:37:6:i2c_start	4	static
+i2c.c:44:6:i2c_write	16	static
+i2c.c:51:6:i2c_address	24	static
+i2c.c:59:6:i2c_stop	4	static
+i2c.c:64:6:i2c_write_multi	16	static
+i2c.c:77:6:i2c_read_ack	16	static
+i2c.c:86:6:i2c_read_nack	16	static
+i2c.c:95:6:i2c_read	24	static
