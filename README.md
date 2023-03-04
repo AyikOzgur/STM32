@@ -1,3 +1,3 @@
 # STM32
 
-Some examples of STM32 microcontrollers peripheral drivers.
+Some examples of STM32 microcontrollers.
