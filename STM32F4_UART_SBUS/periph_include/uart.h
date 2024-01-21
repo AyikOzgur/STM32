@@ -7,6 +7,4 @@ extern uint8_t sizeofbuffer;
 extern volatile char count_char;
 void usart2_init(void);
 
-
 #endif
-

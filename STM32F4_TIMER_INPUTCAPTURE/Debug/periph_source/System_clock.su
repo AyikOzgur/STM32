@@ -1,6 +1,0 @@
-core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
-core_cm4.h:1698:22:NVIC_SetPriority	16	static
-System_clock.c:6:6:clock_init	8	static
-System_clock.c:34:6:systick_init	8	static
-System_clock.c:48:6:SysTick_Handler	4	static
-System_clock.c:54:6:delayms	24	static

@@ -1,5 +1,0 @@
-MPU6050.c:7:6:MPU_write	16	static
-MPU6050.c:16:6:MPU_read	16	static
-MPU6050.c:28:6:MPU6050_init	16	static
-MPU6050.c:58:6:MPU_read_eulers	56	static
-MPU6050.c:121:6:MPU6050_callibration	40	static
